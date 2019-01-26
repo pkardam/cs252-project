@@ -1,0 +1,2 @@
+# Referenced at /home/prashant/CS252/NFCL/client/driver/platforms/android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:59
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

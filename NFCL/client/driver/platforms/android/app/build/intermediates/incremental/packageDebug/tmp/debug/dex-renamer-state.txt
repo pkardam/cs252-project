@@ -1,0 +1,7 @@
+#Sat Nov 03 01:27:20 IST 2018
+base.0=/home/prashant/CS252/NFCL/client/driver/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/prashant/CS252/NFCL/client/driver/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
